@@ -1,4 +1,9 @@
 # assignment-47
+
+
+![age3](https://github.com/rezaanalytics11/assignment-47/assets/105513524/18c39efb-2eda-4b95-b0a7-9fe4add71fac)
+![age2](https://github.com/rezaanalytics11/assignment-47/assets/105513524/4a75f660-6f64-46fc-a2d5-1405bcc62be7)
+![age1](https://github.com/rezaanalytics11/assignment-47/assets/105513524/c7c35752-1ea1-48b2-abc4-42505b329085)
 ![14](https://github.com/rezaanalytics11/assignment-47/assets/105513524/34b34150-aeff-47ba-953a-e8b7c1590e38)
 ![13](https://github.com/rezaanalytics11/assignment-47/assets/105513524/b464fc93-b134-45f5-8e6a-05de3e8be8bd)
 ![12](https://github.com/rezaanalytics11/assignment-47/assets/105513524/5d9a1fcb-795f-4172-b6ff-1df38aa21b0f)
@@ -13,3 +18,4 @@
 ![3](https://github.com/rezaanalytics11/assignment-47/assets/105513524/dc017c81-4b55-4719-aa67-bda4d4ed0cee)
 ![2](https://github.com/rezaanalytics11/assignment-47/assets/105513524/e4a30fa4-fe94-4a0e-8d48-201148d6a7d7)
 ![1](https://github.com/rezaanalytics11/assignment-47/assets/105513524/62f7cbd3-a275-479d-8ab8-844eb029d9d9)
+![Figure_1](https://github.com/rezaanalytics11/assignment-47/assets/105513524/951d0433-05f0-47d3-abbe-0d66881477af)
